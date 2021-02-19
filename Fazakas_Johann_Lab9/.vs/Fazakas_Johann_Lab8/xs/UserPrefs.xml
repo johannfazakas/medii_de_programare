@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{2E652FB1-2544-425B-9403-296F24F96D0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fazakas_Johann_Lab8/Models/Tag.cs">
+    <Files>
+      <File FileName="Fazakas_Johann_Lab8/Models/Guitar.cs" Line="40" Column="1" />
+      <File FileName="Fazakas_Johann_Lab8/Data/Fazakas_Johann_Lab8Context.cs" Line="24" Column="1" />
+      <File FileName="Fazakas_Johann_Lab8/Program.cs" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/_ViewStart.cshtml" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/_ViewImports.cshtml" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Shared/_Layout.cshtml" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Index.cshtml" Line="48" Column="18" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Create.cshtml" Line="27" Column="59" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Edit.cshtml" Line="16" Column="56" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Details.cshtml" Line="18" Column="37" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Delete.cshtml" Line="14" Column="21" />
+      <File FileName="Fazakas_Johann_Lab8/Models/Owner.cs" Line="19" Column="6" />
+      <File FileName="Fazakas_Johann_Lab8/Migrations/20210219183406_Initial.Designer.cs" Line="1" Column="5" />
+      <File FileName="Fazakas_Johann_Lab8/Fazakas_Johann_Lab8.csproj" Line="1" Column="1" />
+      <File FileName="Fazakas_Johann_Lab8/Migrations/20210219184503_Initial.cs" Line="23" Column="42" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Owners/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Owners/Index.cshtml" Line="10" Column="4" />
+      <File FileName="Fazakas_Johann_Lab8/Models/Tag.cs" Line="17" Column="1" />
+      <File FileName="Fazakas_Johann_Lab8/Models/GuitarTag.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fazakas_Johann_Lab8" expanded="True">
+            <Node name="Fazakas_Johann_Lab8" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Tag.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Fazakas__Johann__Lab8 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
