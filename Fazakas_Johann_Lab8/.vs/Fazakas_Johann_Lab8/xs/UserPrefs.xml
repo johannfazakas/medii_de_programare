@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{2E652FB1-2544-425B-9403-296F24F96D0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fazakas_Johann_Lab8/Models/Guitar.cs">
+    <Files>
+      <File FileName="Fazakas_Johann_Lab8/Models/Guitar.cs" Line="23" Column="1" />
+      <File FileName="Fazakas_Johann_Lab8/Data/Fazakas_Johann_Lab8Context.cs" />
+      <File FileName="Fazakas_Johann_Lab8/Program.cs" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/_ViewStart.cshtml" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/_ViewImports.cshtml" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Shared/_Layout.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fazakas_Johann_Lab8" expanded="True">
+            <Node name="Fazakas_Johann_Lab8" expanded="True" selected="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Guitars" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Fazakas__Johann__Lab8 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
