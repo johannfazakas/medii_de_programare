@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{2E652FB1-2544-425B-9403-296F24F96D0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fazakas_Johann_Lab8/Pages/Guitars/Details.cshtml.cs">
+    <Files>
+      <File FileName="Fazakas_Johann_Lab8/Models/Guitar.cs" Line="22" Column="9" />
+      <File FileName="Fazakas_Johann_Lab8/Data/Fazakas_Johann_Lab8Context.cs" />
+      <File FileName="Fazakas_Johann_Lab8/Program.cs" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/_ViewStart.cshtml" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/_ViewImports.cshtml" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Shared/_Layout.cshtml" Line="13" Column="36" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Index.cshtml" Line="61" Column="59" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Create.cshtml" Line="32" Column="77" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Edit.cshtml" Line="44" Column="108" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Details.cshtml" Line="45" Column="71" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Delete.cshtml" />
+      <File FileName="Fazakas_Johann_Lab8/Models/Owner.cs" Line="20" Column="2" />
+      <File FileName="Fazakas_Johann_Lab8/Fazakas_Johann_Lab8.csproj" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Owners/Create.cshtml" Line="24" Column="16" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Owners/Index.cshtml" Line="35" Column="13" />
+      <File FileName="Fazakas_Johann_Lab8/Models/Tag.cs" Line="17" Column="1" />
+      <File FileName="Fazakas_Johann_Lab8/Models/GuitarTag.cs" Line="21" Column="1" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Index.cshtml" Line="1" Column="15" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Edit.cshtml.cs" Line="32" Column="1" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Create.cshtml.cs" Line="24" Column="30" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Index.cshtml.cs" Line="32" Column="1" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Owners/Delete.cshtml" Line="29" Column="1" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Owners/Edit.cshtml" Line="17" Column="37" />
+      <File FileName="Fazakas_Johann_Lab8/Pages/Guitars/Details.cshtml.cs" Line="32" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fazakas_Johann_Lab8" expanded="True">
+            <Node name="Fazakas_Johann_Lab8" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Guitars" expanded="True">
+                  <Node name="Create.cshtml" expanded="True" />
+                  <Node name="Details.cshtml" expanded="True">
+                    <Node name="Details.cshtml.cs" selected="True" />
+                  </Node>
+                  <Node name="Edit.cshtml" expanded="True" />
+                  <Node name="Index.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Fazakas__Johann__Lab8 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
